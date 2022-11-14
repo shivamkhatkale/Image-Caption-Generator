@@ -17,8 +17,6 @@ A Web App to generate caption for Images. VGG-16 Model is used to encode the ima
 - developer page
 <img src = "screenshots/developer.PNG" width = 50%>
 
-## Video Demo
-<img src = "screenshots/vdo.gif" width = 50%>
 
 ## How to run the project
 - Install python 3 (3.7 or higher) and add python to path
